@@ -11,21 +11,22 @@ Este projeto foca no uso de lógica de arrays, manipulação de elementos de UI 
 ## 🚀 Funcionalidades
 
 -   **Gerador de Frases:** Ao clicar em um botão, uma nova frase é exibida na tela.
+-   **Exibir todas as frases:** Ao clicar em um botão, exibe uma lista com todas as frases.
 -   **Conteúdo Variado:** Banco de dados local com frases curtas de motivação, foco e reflexão.
 -   **Interface Limpa:** Design minimalista focado na leitura da mensagem.
 
 ## 📱 Screenshots
 
-| Tela Inicial | Nova Frase Gerada |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/200x400?text=Tela+Inicial" width="200"> | <img src="https://via.placeholder.com/200x400?text=Frase+Sorteada" width="200"> |
+| Tela Inicial | Nova Frase Gerada | Todas as Frases 
+|:---:|:---:| :---: |
+| <img src="/assets/print1.png"> | <img src="/assets/print2.png"> | <img src="/assets/print3.png">
 
 ## 🛠️ Tecnologias Utilizadas
 
 -   **Linguagem:** [Java](https://www.java.com/)
 -   **IDE:** [Android Studio](https://developer.android.com/studio)
 -   **Layout:** XML (ConstraintLayout / LinearLayout)
--   **SDK Mínimo:** Android 5.0 (Lollipop) - *AJUSTE CONFORME SEU PROJETO*
+-   **SDK Mínimo:** Android 10.0
 
 ## 🔧 Como Executar o Projeto
 
