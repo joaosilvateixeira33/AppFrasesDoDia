@@ -1,6 +1,6 @@
 # 📱 App Frases do Dia
 
-![Status Concluído](https://img.shields.io/badge/STATUS-CONCLUÍDO-00C853?style=for-the-badge)
+![Status Concluído](https://img.shields.io/badge/STATUS-CONCLUÍDO-00C853?style=for-the-badge) <br>
 Um aplicativo Android simples e intuitivo desenvolvido em **Java** que entrega doses diárias de motivação e inspiração através de frases geradas aleatoriamente.
 
 ## 📋 Sobre o Projeto
