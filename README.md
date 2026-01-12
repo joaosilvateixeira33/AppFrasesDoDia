@@ -1,5 +1,6 @@
 # 📱 App Frases do Dia
 
+![Status Concluído](https://img.shields.io/badge/STATUS-CONCLUÍDO-00C853?style=for-the-badge)
 Um aplicativo Android simples e intuitivo desenvolvido em **Java** que entrega doses diárias de motivação e inspiração através de frases geradas aleatoriamente.
 
 ## 📋 Sobre o Projeto
@@ -23,8 +24,8 @@ Este projeto foca no uso de lógica de arrays, manipulação de elementos de UI 
 
 ## 🛠️ Tecnologias Utilizadas
 
--   **Linguagem:** [Java](https://www.java.com/)
--   **IDE:** [Android Studio](https://developer.android.com/studio)
+-   **Linguagem:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+-   **IDE:** ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 -   **Layout:** XML (ConstraintLayout / LinearLayout)
 -   **SDK Mínimo:** Android 10.0
 
