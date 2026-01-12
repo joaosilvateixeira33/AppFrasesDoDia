@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
             "Não pare até se orgulhar.",
             "Foco, força e fé.",
             "Seja a sua melhor versão.",
-            "Gratidão gera gratidão."
+            "Feito é melhor que perfeito"
     };
 
     @Override
