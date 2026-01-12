@@ -25,10 +25,10 @@ Este projeto foca no uso de lógica de arrays, manipulação de elementos de UI 
 
 ## 🛠️ Tecnologias Utilizadas
 
--   ![Java](https://img.shields.io/badge/Linguagem-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
--   ![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-46A07E?style=flat-square&logo=android-studio&logoColor=white)
--   **Layout:** XML (ConstraintLayout / LinearLayout)
--   **SDK Mínimo:** Android 10.0
+-  ![Java](https://img.shields.io/badge/Linguagem-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+-  ![Android Studio](https://img.shields.io/badge/IDE-Android_Studio-46A07E?style=flat-square&logo=android-studio&logoColor=white)
+-  ![XML](https://img.shields.io/badge/Layout-XML-blue?style=flat-square)
+-  ![Min SDK](https://img.shields.io/badge/Min_SDK-API_29_(Android_10)-7C4DFF?style=flat-square&logo=android&logoColor=white)
 
 ## 🔧 Como Executar o Projeto
 
