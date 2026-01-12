@@ -19,7 +19,7 @@ Este projeto foca no uso de lógica de arrays, manipulação de elementos de UI 
 
 | Tela Inicial | Nova Frase Gerada | Todas as Frases 
 |:---:|:---:| :---: |
-| <img src="/assets/print1.png"> | <img src="/assets/print2.png"> | <img src="/assets/print3.png">
+| <img src="/assets/print1.png"> | <img src="/assets/print3.png"> | <img src="/assets/print2.png">
 
 ## 🛠️ Tecnologias Utilizadas
 
